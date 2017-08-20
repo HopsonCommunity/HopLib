@@ -8,7 +8,9 @@ namespace HopLib {
 template<typename T>
 class UniquePtr : public NonCopyable
 {
+    public:
 
+    private:
 };
 
 }
